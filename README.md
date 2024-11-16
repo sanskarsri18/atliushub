@@ -1,0 +1,1 @@
+Interview experience was quite enriching for me and assignment provided was challenging testing the full stack skills. I have started with backend section and then switched to frontend section. Need to do things quickly due to time cnstraint.
